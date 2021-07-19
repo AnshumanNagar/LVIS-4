@@ -1,0 +1,53 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	text-align: center;
+}
+
+marquee{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: white;
+	background-color: blue;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+marquee:hover{
+	background-color: #363533;
+}
+
+#info img{
+	margin-left: 100px;
+	margin-right: -50px;
+}
+
+#alumni{
+	line-height: 2;
+}
+
+.book{
+	cursor: pointer;
+}
+
+.book hr{
+	margin-bottom: 10px;
+}
+
+.modal-content{
+	margin-top: 100px;
+}
+
+.img_modal{
+	display: inline-block;
+}
+
+.p_modal{
+	margin-top: 10px;
+}
+
+.modal-body{
+	text-align: center;
+}

@@ -1,0 +1,42 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	text-align: center;
+}
+
+marquee{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: white;
+	background-color: blue;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+marquee:hover{
+	background-color: #363533;
+}
+
+#info img{
+	margin-left: 100px;
+	margin-right: -50px;
+}
+
+.movie_head{
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block; 
+}
+
+.movie_head i{
+	float: right;
+}
+
+.movie_text span{
+	color: #ff7700;
+}
